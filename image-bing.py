@@ -34,10 +34,10 @@ def download():
     month = datetime.datetime.now().strftime('%Y-%m')
     print(year, month)
     # 新建文件夹
-    os.system(f'mkdir -p /Wallpaper/{year}/{month}')
+    os.system(f'mkdir -p ./Wallpaper/{year}/{month}')
     # 图片下载位置
-    os.system(f'wget {Picture_address} -O /Wallpaper/{year}/{month}/{image_name}')
-    os.system('ls /Wallpaper/{year}/{month}')
+    os.system(f'wget {Picture_address} -O ./Wallpaper/{year}/{month}/{image_name}')
+    os.system('ls ./Wallpaper/{year}/{month}')
 
 
 def start_up():
