@@ -14,16 +14,14 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
     </small>
 </p>
 
+<br>
 <hr>
+<br>
 
 <p align='center' >
     <font size=7>
         <small>
-            从此 <a href='https://github.com/'>GitHub</a> 又多了一个
-            <mark>
-                无聊至极的仓库
-            </mark>
-            🍳
+            从此 <a href='https://github.com/'>GitHub</a> 多了一个无聊至极的仓库  🍳
         </small>
     </font>
 </p>
