@@ -5,9 +5,9 @@ on:
   schedule:
     # 定时执行,会有延时
     - cron: 0 0 * * *
-  push:
+  #push:
     # push后触发
-     branches: [ "main" ]
+     #branches: [ "main" ]
   watch:
      types: [started]
     
