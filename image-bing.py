@@ -38,7 +38,7 @@ def download():
     os.system(f'mkdir -p ./Wallpaper/{year}/{month}')
     # 图片下载位置
     os.system(f'wget {Picture_address} -O ./Wallpaper/{year}/{month}/{image_name}')
-    os.system('tree ./Wallpaper/{year}/{month}')
+    os.system(f'tree ./Wallpaper/{year}/{month}')
 
 
 # 自述文件更新
