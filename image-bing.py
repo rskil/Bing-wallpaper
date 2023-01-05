@@ -15,7 +15,7 @@ print()
 print(Picture_address)
 
 # 图片名称
-image_name = Picture_address.split('Schnee_')[1]
+image_name = Picture_address.split('HIISSF_EN-US')[1]
 print(image_name)
 
 # 图片 title
