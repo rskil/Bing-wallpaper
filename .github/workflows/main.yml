@@ -1,0 +1,30 @@
+name: 自动签到 Sign_in
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # 定时执行,会有延时
+    - cron: 0 0 * * *
+  push:
+    # push后触发
+     branches: [ "main" ]
+  watch:
+    types: [started]
+    
+env:
+  # 设置时区
+  TZ: Asia/Shanghai
+  
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # 运行环境
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      - name: 运行脚本
+        run: |
+          python3 image-bing.py
