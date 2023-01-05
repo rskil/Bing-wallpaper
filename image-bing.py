@@ -22,12 +22,13 @@ def api():
     if 'ZH-CN' in api:
         image_name = Picture_address.split('Schnee_ZH-CN')[1]
 
-    # 输出看效果
+    # 打印访问接口返回信息
     print(api)
 
     return Picture_address, image_name
 
 
+# 下载壁纸 存放到对应月份目录
 def download():
     # 以月份创建文件夹
     year = datetime.datetime.now().strftime('%Y')
@@ -47,22 +48,18 @@ def readme():
         data = f.read()  
         # 将模板中对应部分替换
         data = data.replace('URL', f'{Picture_address}').replace('TIME',
-                                                                 f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%I:%S')}")
+                                                                 f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         # 将替换后的内容写到新的文件
-        os.system('rm -rf ./Wallpaper/new_readme.txt')
         with open("./Wallpaper/new_readme.txt", 'w', encoding="utf-8") as f_new:
             f_new.write(data)
             f_new.close()
         f.close()
     # 更新自述文件 README.md
-    os.system('cat ./Wallpaper/new_readme.txt > ./README.md')
-    
-def start_up():
-    api()
-    download()
-    readme()
+    os.system('cat ./Wallpaper/new_readme.txt && cat ./Wallpaper/new_readme.txt > ./README.md')
 
     
 if __name__ == '__main__':
-    start_up()
+    api()
+    download()
+    readme()
     
