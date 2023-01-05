@@ -34,29 +34,15 @@ def download():
     month = datetime.datetime.now().strftime('%Y-%m')
     print(year, month)
     # 新建文件夹
-    os.system(f'mkdir /Wallpaper/{year}/{month}')
+    os.system(f'mkdir -p /Wallpaper/{year}/{month}')
     # 图片下载位置
     os.system(f'wget {Picture_address} -O /Wallpaper/{year}/{month}/{image_name}')
-
-
-def push():
-    # 邮箱
-    os.system('git config --global user.email renhang0203@88.com')
-    # 用户名
-    os.system('git config --global user.name rskil')
-    # 上传的文件夹
-    os.system('git add ./Wallpaper/*')
-    # 上传备注
-    os.system('git commit -m "Update on $(date +%F' '%X) :sunny:" -a')
-    # 上传
-    os.system('git push')
-    print(f"推送成功 - {datetime.datetime.now().strftime('%Y-%m-%d')}")
+    os.system('ls /Wallpaper/{year}/{month}')
 
 
 def start_up():
     api()
     download()
-    push()
 
     
 if __name__ == '__main__':
