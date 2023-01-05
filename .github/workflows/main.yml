@@ -37,5 +37,5 @@ jobs:
           git config --global user.email $EMAIL
           git config --global user.name $NAME
           git add ./Wallpaper/*
-          git commit -m "Update on $(date +%F' '%X) :sunny:" -a
+          git commit -m "Update on $(date +%F' '%X) 	:new:" -a
           git push
