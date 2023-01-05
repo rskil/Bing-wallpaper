@@ -1,8 +1,8 @@
 # Bing-wallpaper
 
-##### Bing 接口
+##### Bing壁纸 - 接口
 
-```http
+```shell
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
