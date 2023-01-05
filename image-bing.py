@@ -49,12 +49,13 @@ def readme():
         data = data.replace('URL', f'{Picture_address}').replace('TIME',
                                                                  f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%I:%S')}")
         # 将替换后的内容写到新的文件
-        with open("./Wallpaper/new_readme.txt", 'a', encoding="utf-8") as f:
-            f.write(data)
-            f.close()
+        os.system('rm -rf ./Wallpaper/new_readme.txt')
+        with open("./Wallpaper/new_readme.txt", 'w', encoding="utf-8") as f_new:
+            f_new.write(data)
+            f_new.close()
         f.close()
     # 更新自述文件 README.md
-    os.system('cat ./Wallpaper/new_readme.txt >> ./README.md')
+    os.system('cat ./Wallpaper/new_readme.txt > ./README.md')
     
 def start_up():
     api()
