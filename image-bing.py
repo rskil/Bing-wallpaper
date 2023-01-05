@@ -54,7 +54,7 @@ def readme():
             f.close()
         f.close()
     # 更新自述文件 README.md
-    os.system('cat ./Wallpaper/new_readme.txt > ./README.md')
+    os.system('cat ./Wallpaper/new_readme.txt >> ./README.md')
     
 def start_up():
     api()
