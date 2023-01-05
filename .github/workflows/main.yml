@@ -1,4 +1,4 @@
-name: Bing壁纸每日爬取
+name: Bing壁纸 - 每日爬取
 
 # Controls when the workflow will run
 on:
@@ -30,9 +30,12 @@ jobs:
           python3 image-bing.py
           
       - name: 推送到仓库
+        env:
+          NAME: ${{ secrets.NAME }}
+          EMAIL: ${{ secrets.EMAIL }}
         run: |
-          git config --global user.email renhang0203@88.com
-          git config --global user.name rskil
+          git config --global user.email $EMAIL
+          git config --global user.name $NAME
           git add ./Wallpaper/*
           git commit -m "Update on $(date +%F' '%X) :sunny:" -a
           git push
