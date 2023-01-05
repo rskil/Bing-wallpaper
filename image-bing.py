@@ -31,14 +31,14 @@ def api():
 # 下载壁纸 存放到对应月份目录
 def download():
     # 以月份创建文件夹
-    year = datetime.datetime.now().strftime('%Y')
+    year  = datetime.datetime.now().strftime('%Y')
     month = datetime.datetime.now().strftime('%Y-%m')
     print(year, month)
     # 新建文件夹
     os.system(f'mkdir -p ./Wallpaper/{year}/{month}')
     # 图片下载位置
     os.system(f'wget {Picture_address} -O ./Wallpaper/{year}/{month}/{image_name}')
-    os.system('ls ./Wallpaper/{year}/{month}')
+    os.system('tree ./Wallpaper/{year}/{month}')
 
 
 # 自述文件更新
