@@ -20,9 +20,9 @@ def api():
     
     # 获取图片名称
     if 'EN-US' in api:
-        image_name = Picture_address.split('HIISSF_EN-US')[1]
+        image_name = Picture_address.split('EN-US')[1]
     if 'ZH-CN' in api:
-        image_name = Picture_address.split('Schnee_ZH-CN')[1]
+        image_name = Picture_address.split('ZH-CN')[1]
 
 
     return Picture_address, image_name
