@@ -11,19 +11,19 @@ def api():
     # 壁纸接口
     # api = requests.get('http://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1').text.split(',')
     api = requests.get('https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US').text
-
+    # 打印访问接口返回信息
+    print(api)
+    
     # 获取图片地址
     # url 类似于 https://s.cn.bing.net/th?id=OHR.Perihelion_EN-CN9143824587_1920x1080.jpg
     Picture_address = f"https://s.cn.bing.net/{api.split(',')[3].split('/')[1].split('&')[0]}"
-
+    
     # 获取图片名称
     if 'EN-US' in api:
         image_name = Picture_address.split('HIISSF_EN-US')[1]
     if 'ZH-CN' in api:
         image_name = Picture_address.split('Schnee_ZH-CN')[1]
 
-    # 打印访问接口返回信息
-    print(api)
 
     return Picture_address, image_name
 
