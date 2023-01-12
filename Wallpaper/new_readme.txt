@@ -8,11 +8,11 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 
 Bing国际版 [https://cn.bing.com/](https://cn.bing.com/)
 
- ![](https://s.cn.bing.net/th?id=OHR.HummockIce_EN-US4606231645_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.Umschreibung_EN-US4693850900_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-01-11 14:01:17
+        最近一次爬取时间 - 2023-01-12 09:12:58
     </small>
 </p>
 
