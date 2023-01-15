@@ -17,7 +17,6 @@ Bing国际版 [https://cn.bing.com/](https://cn.bing.com/)
 </p>
 
 <br>
-<hr>
 <br>
 
 <p align='center' >
@@ -27,3 +26,4 @@ Bing国际版 [https://cn.bing.com/](https://cn.bing.com/)
         </small>
     </font>
 </p>
+<hr>
