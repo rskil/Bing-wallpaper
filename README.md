@@ -6,7 +6,6 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
-Bing国际版 [https://cn.bing.com/](https://cn.bing.com/)
 
  ![](https://s.cn.bing.net/th?id=OHR.DonkeyFeast_EN-US1153850805_1920x1080.jpg)
 
@@ -17,7 +16,7 @@ Bing国际版 [https://cn.bing.com/](https://cn.bing.com/)
 </p>
 
 <br>
-<hr>
+
 <br>
 
 <p align='center' >
@@ -27,3 +26,4 @@ Bing国际版 [https://cn.bing.com/](https://cn.bing.com/)
         </small>
     </font>
 </p>
+<hr>
