@@ -3,11 +3,7 @@ name: Bing壁纸 - 每日爬取
 on:
   schedule:
     # 定时执行,会有延时
-    - cron: 0 0 * * *
-  push:
-     branches: [ "main" ]
-  watch:
-     types: [started]
+    - cron: 0 1 * * *
     
 env:
   TZ: Asia/Shanghai
