@@ -14,12 +14,6 @@ Bing国际版 [https://cn.bing.com/](https://cn.bing.com/)
     <small>
         最近一次爬取时间 - TIME
     </small>
-</p>
-
-<br>
-<br>
-
-<p align='center' >
     <font size=7>
         <small>
             从此 <a href='https://github.com/'>GitHub</a> 多了一个无聊至极的仓库  🍳
