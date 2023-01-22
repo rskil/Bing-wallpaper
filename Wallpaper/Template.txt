@@ -12,13 +12,14 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
     <small>
         最近一次爬取时间 - TIME
     </small>
+    <br>
+    <hr>
     <font size=7>
-        <hr>
-           <small>
-               从此 <a href='https://github.com/'>GitHub</a> 多了一个无聊至极的仓库  🍳
-           </small>
-        <hr>
+        <small>
+           从此 <a href='https://github.com/'>GitHub</a> 多了一个无聊至极的仓库  🍳
+        </small>
     </font>
+    <hr>
 </p>
 
 
