@@ -48,14 +48,14 @@ def addimg():
 
 # 自述文件更新
 def readme():
+    # 模板文件内加入数据 
+    addimg()
     with open("./Wallpaper/Template.txt", "r", encoding="utf-8") as f:  # 打开文件
         # 读取文件
         data = f.read()  
         # 将模板中对应部分替换
         data = data.replace('URL', f'{Picture_address}').replace('TIME',
                                                                  f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-        # 模板文件内加入数据 
-        addimg()
         # 将替换后的内容写到新的文件
         with open("./Wallpaper/new_readme.txt", 'w', encoding="utf-8") as f_new:
             f_new.write(data)
