@@ -43,7 +43,7 @@ def download():
     
 # 向模板内添加图片地址
 def addimg():
-    os.system(f'echo "- [{Picture_address}]({Picture_address})" >>  ./Wallpaper/Template.txt'  )
+    os.system(f'echo "- {Picture_address} \" >>  ./Wallpaper/Template.txt'  )
     
 
 # 自述文件更新
