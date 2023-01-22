@@ -40,6 +40,11 @@ def download():
     os.system(f'wget {Picture_address} -O ./Wallpaper/{year}/{month}/{image_name}')
     os.system(f'tree ./Wallpaper/{year}/{month}')
 
+    
+# 向模板内添加图片地址
+def addimg():
+    os.system(f'echo "- [{Picture_address}]({Picture_address})" >>  ./Wallpaper/Template.txt'  )
+    
 
 # 自述文件更新
 def readme():
@@ -50,7 +55,7 @@ def readme():
         data = data.replace('URL', f'{Picture_address}').replace('TIME',
                                                                  f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         # 模板文件内加入数据 
-        f.write(f'- [{Picture_address}][{Picture_address}]')
+        addimg()
         # 将替换后的内容写到新的文件
         with open("./Wallpaper/new_readme.txt", 'w', encoding="utf-8") as f_new:
             f_new.write(data)
