@@ -43,7 +43,8 @@ def download():
     
 # 向模板内添加图片地址
 def addimg():
-    os.system(f'echo "- {datetime.datetime.now().strftime('%Y-%m-%d')} - {Picture_address} \" >>  ./Wallpaper/Template.txt'  )
+    date = datetime.datetime.now().strftime('%Y-%m-%d')
+    os.system(f'echo "- {date} - {Picture_address} \" >>  ./Wallpaper/Template.txt'  )
     
 
 # 自述文件更新
