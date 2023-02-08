@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.MedievalLabro_EN-US3411281136_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-02-07 10:09:58
+        最近一次爬取时间 - 2023-02-08 10:16:46
     </small>
     <br>
     <hr>
@@ -40,3 +40,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-02-05 - https://s.cn.bing.net/th?id=OHR.RosaParksBus_EN-US3109740887_1920x1080.jpg 
 - 2023-02-06 - https://s.cn.bing.net/th?id=OHR.MonarchPismo_EN-US3162751009_1920x1080.jpg 
 - 2023-02-07 - https://s.cn.bing.net/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_1920x1080.jpg 
+- 2023-02-08 - https://s.cn.bing.net/th?id=OHR.MedievalLabro_EN-US3411281136_1920x1080.jpg 
