@@ -41,3 +41,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-02-06 - https://s.cn.bing.net/th?id=OHR.MonarchPismo_EN-US3162751009_1920x1080.jpg 
 - 2023-02-07 - https://s.cn.bing.net/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_1920x1080.jpg 
 - 2023-02-08 - https://s.cn.bing.net/th?id=OHR.MedievalLabro_EN-US3411281136_1920x1080.jpg 
+- 2023-02-09 - https://s.cn.bing.net/th?id=OHR.NorwayRestArea_EN-US3474268008_1920x1080.jpg 
