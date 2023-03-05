@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.OrcaNorway_EN-US0377841310_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.PicoVolcano_EN-US0491099827_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-03-04 10:13:51
+        最近一次爬取时间 - 2023-03-05 10:30:55
     </small>
     <br>
     <hr>
@@ -65,3 +65,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-03-02 - https://s.cn.bing.net/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_1920x1080.jpg 
 - 2023-03-03 - https://s.cn.bing.net/th?id=OHR.NegratinSpain_EN-US0285047102_1920x1080.jpg 
 - 2023-03-04 - https://s.cn.bing.net/th?id=OHR.OrcaNorway_EN-US0377841310_1920x1080.jpg 
+- 2023-03-05 - https://s.cn.bing.net/th?id=OHR.PicoVolcano_EN-US0491099827_1920x1080.jpg 
