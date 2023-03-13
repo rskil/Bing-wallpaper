@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.LongWharf_EN-US6625072596_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.TheaterRomania_EN-US6839059395_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-03-12 10:17:32
+        最近一次爬取时间 - 2023-03-13 10:08:33
     </small>
     <br>
     <hr>
@@ -73,3 +73,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-03-10 - https://s.cn.bing.net/th?id=OHR.WaimeaRainbow_EN-US1376447893_1920x1080.jpg 
 - 2023-03-11 - https://s.cn.bing.net/th?id=OHR.EdaleValley_EN-US6544571023_1920x1080.jpg 
 - 2023-03-12 - https://s.cn.bing.net/th?id=OHR.LongWharf_EN-US6625072596_1920x1080.jpg 
+- 2023-03-13 - https://s.cn.bing.net/th?id=OHR.TheaterRomania_EN-US6839059395_1920x1080.jpg 
