@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.WildAnza_EN-US9575120232_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-03-26 10:08:05
+        最近一次爬取时间 - 2023-03-27 10:00:39
     </small>
     <br>
     <hr>
@@ -87,3 +87,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-03-24 - https://s.cn.bing.net/th?id=OHR.CloudsPatagonia_EN-US4941579050_1920x1080.jpg 
 - 2023-03-25 - https://s.cn.bing.net/th?id=OHR.WildGarlic_EN-US8549203860_1920x1080.jpg 
 - 2023-03-26 - https://s.cn.bing.net/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_1920x1080.jpg 
+- 2023-03-27 - https://s.cn.bing.net/th?id=OHR.WildAnza_EN-US9575120232_1920x1080.jpg 
