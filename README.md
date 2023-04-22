@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.OcalaNF_EN-US5881034085_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.ProcidaItaly_EN-US6282924427_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-04-21 09:58:57
+        最近一次爬取时间 - 2023-04-22 09:59:57
     </small>
     <br>
     <hr>
@@ -113,3 +113,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-04-19 - https://s.cn.bing.net/th?id=OHR.MPPUnesco_EN-US8204922969_1920x1080.jpg 
 - 2023-04-20 - https://s.cn.bing.net/th?id=OHR.TaiwanYuhina_EN-US1768443431_1920x1080.jpg 
 - 2023-04-21 - https://s.cn.bing.net/th?id=OHR.OcalaNF_EN-US5881034085_1920x1080.jpg 
+- 2023-04-22 - https://s.cn.bing.net/th?id=OHR.ProcidaItaly_EN-US6282924427_1920x1080.jpg 
