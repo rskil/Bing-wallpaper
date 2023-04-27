@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.AdelieWPD_EN-US5175747404_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.GHOAudubonDay_EN-US1034364185_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-04-26 10:00:14
+        最近一次爬取时间 - 2023-04-27 09:59:59
     </small>
     <br>
     <hr>
@@ -118,3 +118,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-04-24 - https://s.cn.bing.net/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_1920x1080.jpg 
 - 2023-04-25 - https://s.cn.bing.net/th?id=OHR.FranconianWineCellar_EN-US3287515626_1920x1080.jpg 
 - 2023-04-26 - https://s.cn.bing.net/th?id=OHR.AdelieWPD_EN-US5175747404_1920x1080.jpg 
+- 2023-04-27 - https://s.cn.bing.net/th?id=OHR.GHOAudubonDay_EN-US1034364185_1920x1080.jpg 
