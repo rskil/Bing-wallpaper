@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.KoreanBell_EN-US9211069806_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.KlostersSerneus_EN-US9360254697_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-05-02 09:58:54
+        最近一次爬取时间 - 2023-05-03 09:58:17
     </small>
     <br>
     <hr>
@@ -124,3 +124,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-04-30 - https://s.cn.bing.net/th?id=OHR.JTNPMilkyWay_EN-US8982229546_1920x1080.jpg 
 - 2023-05-01 - https://s.cn.bing.net/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_1920x1080.jpg 
 - 2023-05-02 - https://s.cn.bing.net/th?id=OHR.KoreanBell_EN-US9211069806_1920x1080.jpg 
+- 2023-05-03 - https://s.cn.bing.net/th?id=OHR.KlostersSerneus_EN-US9360254697_1920x1080.jpg 
