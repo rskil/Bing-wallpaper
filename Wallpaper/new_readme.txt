@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.MountCetatea_EN-US0862689024_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.CordouanLighthouse_EN-US1179388866_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-05-10 09:57:50
+        最近一次爬取时间 - 2023-05-11 09:58:29
     </small>
     <br>
     <hr>
@@ -132,3 +132,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-05-08 - https://s.cn.bing.net/th?id=OHR.SealLaughing_EN-US0742497806_1920x1080.jpg 
 - 2023-05-09 - https://s.cn.bing.net/th?id=OHR.TheChaps_EN-US0810025310_1920x1080.jpg 
 - 2023-05-10 - https://s.cn.bing.net/th?id=OHR.MountCetatea_EN-US0862689024_1920x1080.jpg 
+- 2023-05-11 - https://s.cn.bing.net/th?id=OHR.CordouanLighthouse_EN-US1179388866_1920x1080.jpg 
