@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.AmericanWetlands_EN-US1844827155_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.CormorantBridge_EN-US1902862286_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-05-17 10:02:07
+        最近一次爬取时间 - 2023-05-18 09:59:59
     </small>
     <br>
     <hr>
@@ -139,3 +139,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-05-15 - https://s.cn.bing.net/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_1920x1080.jpg 
 - 2023-05-16 - https://s.cn.bing.net/th?id=OHR.MorroJable_EN-US1772722431_1920x1080.jpg 
 - 2023-05-17 - https://s.cn.bing.net/th?id=OHR.AmericanWetlands_EN-US1844827155_1920x1080.jpg 
+- 2023-05-18 - https://s.cn.bing.net/th?id=OHR.CormorantBridge_EN-US1902862286_1920x1080.jpg 
