@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.MuseoSoumaya_EN-US2440983924_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.SumatranRhino_EN-US0245305253_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-05-19 10:00:21
+        最近一次爬取时间 - 2023-05-20 09:57:32
     </small>
     <br>
     <hr>
@@ -141,3 +141,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-05-17 - https://s.cn.bing.net/th?id=OHR.AmericanWetlands_EN-US1844827155_1920x1080.jpg 
 - 2023-05-18 - https://s.cn.bing.net/th?id=OHR.CormorantBridge_EN-US1902862286_1920x1080.jpg 
 - 2023-05-19 - https://s.cn.bing.net/th?id=OHR.MuseoSoumaya_EN-US2440983924_1920x1080.jpg 
+- 2023-05-20 - https://s.cn.bing.net/th?id=OHR.SumatranRhino_EN-US0245305253_1920x1080.jpg 
