@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.PontdArcole_EN-US2477179777_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-05-22 10:06:01
+        最近一次爬取时间 - 2023-05-23 10:01:19
     </small>
     <br>
     <hr>
@@ -144,3 +144,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-05-20 - https://s.cn.bing.net/th?id=OHR.SumatranRhino_EN-US0245305253_1920x1080.jpg 
 - 2023-05-21 - https://s.cn.bing.net/th?id=OHR.EuropeanHoneybee_EN-US0859156574_1920x1080.jpg 
 - 2023-05-22 - https://s.cn.bing.net/th?id=OHR.PontdArcole_EN-US2477179777_1920x1080.jpg 
+- 2023-05-23 - https://s.cn.bing.net/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_1920x1080.jpg 
