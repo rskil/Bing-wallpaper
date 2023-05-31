@@ -152,3 +152,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-05-28 - https://s.cn.bing.net/th?id=OHR.AloeDichotomum_EN-US4149828212_1920x1080.jpg 
 - 2023-05-29 - https://s.cn.bing.net/th?id=OHR.TegallalangTerrace_EN-US4296943902_1920x1080.jpg 
 - 2023-05-30 - https://s.cn.bing.net/th?id=OHR.LanternFloating_EN-US4433076187_1920x1080.jpg 
+- 2023-05-31 - https://s.cn.bing.net/th?id=OHR.HiddenBeach_EN-US8990991711_1920x1080.jpg 
