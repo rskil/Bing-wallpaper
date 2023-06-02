@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.WorldOtterDay_EN-US4690332709_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.ReefAwareness_EN-US4807167780_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-06-01 10:45:27
+        最近一次爬取时间 - 2023-06-02 10:18:36
     </small>
     <br>
     <hr>
@@ -154,3 +154,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-05-30 - https://s.cn.bing.net/th?id=OHR.LanternFloating_EN-US4433076187_1920x1080.jpg 
 - 2023-05-31 - https://s.cn.bing.net/th?id=OHR.HiddenBeach_EN-US8990991711_1920x1080.jpg 
 - 2023-06-01 - https://s.cn.bing.net/th?id=OHR.WorldOtterDay_EN-US4690332709_1920x1080.jpg 
+- 2023-06-02 - https://s.cn.bing.net/th?id=OHR.ReefAwareness_EN-US4807167780_1920x1080.jpg 

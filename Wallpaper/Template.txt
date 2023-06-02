@@ -154,3 +154,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 - 2023-05-30 - https://s.cn.bing.net/th?id=OHR.LanternFloating_EN-US4433076187_1920x1080.jpg 
 - 2023-05-31 - https://s.cn.bing.net/th?id=OHR.HiddenBeach_EN-US8990991711_1920x1080.jpg 
 - 2023-06-01 - https://s.cn.bing.net/th?id=OHR.WorldOtterDay_EN-US4690332709_1920x1080.jpg 
+- 2023-06-02 - https://s.cn.bing.net/th?id=OHR.ReefAwareness_EN-US4807167780_1920x1080.jpg 
