@@ -4,9 +4,9 @@ on:
   schedule:
     # 定时执行,会有延时
     - cron: 0 1 * * *
-  #push:
-    # push后触发
-    #branches: [ "main" ]
+  push:
+    push后触发
+    branches: [ "main" ]
     
 env:
   TZ: Asia/Shanghai
