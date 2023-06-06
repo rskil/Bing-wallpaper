@@ -5,7 +5,7 @@ on:
     # 定时执行,会有延时
     - cron: 0 1 * * *
   push:
-    push后触发
+    # push后触发
     branches: [ "main" ]
     
 env:
