@@ -44,9 +44,10 @@ def download():
     
 # 向模板内添加图片地址
 def addimg():
-    date = datetime.datetime.now().strftime('%Y-%m-%d')
-    os.system(f'echo "- {date} - {Picture_address} \" >>  ./Wallpaper/Url_data.txt'  )
-    
+    global time_ny
+    time_ny  = datetime.datetime.now().strftime('%Y-%m')
+    time_nyr = datetime.datetime.now().strftime('%Y-%m-%d')
+    os.system(f"echo '- {time_nyr} - {Picture_address} \' >>  ./Wallpaper/Url_data/{time_ny}.txt") 
 
 # 自述文件更新
 def readme():
@@ -64,8 +65,8 @@ def readme():
             f_new.close()
         f.close()
     # 更新自述文件 README.md
-    os.system("tac ./Wallpaper/Url_data.txt >> ./Wallpaper/new_readme.txt")
-    os.system('cat ./Wallpaper/new_readme.txt &&cat ./Wallpaper/new_readme.txt > ./README.md')
+    os.system(f"tac ./Wallpaper/Url_data/{time_ny}.txt >>./Wallpaper/new_readme.txt")
+    os.system('cat ./Wallpaper/new_readme.txt && cat ./Wallpaper/new_readme.txt > ./README.md')
 
     
 if __name__ == '__main__':
