@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.ChacoCulture_EN-US8179442556_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.PlayfulHumpback_EN-US8290961519_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-06-08 10:25:01
+        最近一次爬取时间 - 2023-06-09 10:26:08
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2023-06-09 - https://s.cn.bing.net/th?id=OHR.PlayfulHumpback_EN-US8290961519_1920x1080.jpg 
 - 2023-06-08 - https://s.cn.bing.net/th?id=OHR.ChacoCulture_EN-US8179442556_1920x1080.jpg 
 - 2023-06-07 - https://s.cn.bing.net/th?id=OHR.CliffsEtretat_EN-US8125687089_1920x1080.jpg 
 - 2023-06-06 - https://s.cn.bing.net/th?id=OHR.PlasticParrotfish_EN-US8059787303_1920x1080.jpg 
