@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.NakupendaBeach_EN-US3130365422_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.ZhangyeGeopark_EN-US3229882052_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-07-13 10:35:03
+        最近一次爬取时间 - 2023-07-14 10:32:16
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2023-07-14 - https://s.cn.bing.net/th?id=OHR.ZhangyeGeopark_EN-US3229882052_1920x1080.jpg 
 - 2023-07-13 - https://s.cn.bing.net/th?id=OHR.NakupendaBeach_EN-US3130365422_1920x1080.jpg 
 - 2023-07-12 - https://s.cn.bing.net/th?id=OHR.WorldPopDay_EN-US3018429136_1920x1080.jpg 
 - 2023-07-11 - https://s.cn.bing.net/th?id=OHR.SomersetLavender_EN-US0165780359_1920x1080.jpg 
