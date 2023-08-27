@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.YellowstoneFalls_EN-US1964232839_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.MuseumIsland_EN-US2197808554_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-08-26 09:41:10
+        最近一次爬取时间 - 2023-08-27 09:49:53
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2023-08-27 - https://s.cn.bing.net/th?id=OHR.MuseumIsland_EN-US2197808554_1920x1080.jpg 
 - 2023-08-26 - https://s.cn.bing.net/th?id=OHR.YellowstoneFalls_EN-US1964232839_1920x1080.jpg 
 - 2023-08-25 - https://s.cn.bing.net/th?id=OHR.SharkFinCove_EN-US1070740515_1920x1080.jpg 
 - 2023-08-24 - https://s.cn.bing.net/th?id=OHR.SkogafossWaterfall_EN-US0919190171_1920x1080.jpg 
