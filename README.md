@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.DubrovnikHarbor_EN-US2498064362_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.TetonBison_EN-US5358590688_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-08-29 09:47:27
+        最近一次爬取时间 - 2023-08-30 09:46:24
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2023-08-30 - https://s.cn.bing.net/th?id=OHR.TetonBison_EN-US5358590688_1920x1080.jpg 
 - 2023-08-29 - https://s.cn.bing.net/th?id=OHR.DubrovnikHarbor_EN-US2498064362_1920x1080.jpg 
 - 2023-08-28 - https://s.cn.bing.net/th?id=OHR.JejuIsland_EN-US2402698261_1920x1080.jpg 
 - 2023-08-27 - https://s.cn.bing.net/th?id=OHR.MuseumIsland_EN-US2197808554_1920x1080.jpg 
