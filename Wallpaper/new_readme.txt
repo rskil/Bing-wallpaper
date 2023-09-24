@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.ShamwariRhino_EN-US1414731584_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.CottonwoodCanyon_EN-US1573845041_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-09-23 09:43:03
+        最近一次爬取时间 - 2023-09-24 09:51:41
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2023-09-24 - https://s.cn.bing.net/th?id=OHR.CottonwoodCanyon_EN-US1573845041_1920x1080.jpg 
 - 2023-09-23 - https://s.cn.bing.net/th?id=OHR.ShamwariRhino_EN-US1414731584_1920x1080.jpg 
 - 2023-09-22 - https://s.cn.bing.net/th?id=OHR.NobelNorway_EN-US3740897457_1920x1080.jpg 
 - 2023-09-21 - https://s.cn.bing.net/th?id=OHR.ArkadiaPark_EN-US3604031201_1920x1080.jpg 
