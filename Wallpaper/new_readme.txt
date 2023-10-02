@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.ShenandoahFoliage_EN-US9719781431_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.LakeBledSunrise_EN-US2708574517_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-10-01 09:57:01
+        最近一次爬取时间 - 2023-10-02 09:50:15
     </small>
     <br>
     <hr>
@@ -23,4 +23,5 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2023-10-02 - https://s.cn.bing.net/th?id=OHR.LakeBledSunrise_EN-US2708574517_1920x1080.jpg 
 - 2023-10-01 - https://s.cn.bing.net/th?id=OHR.ShenandoahFoliage_EN-US9719781431_1920x1080.jpg 
