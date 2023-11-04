@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.DeathValleySalt_EN-US1068737086_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.SeaNettles_EN-US6654060294_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-11-03 09:50:57
+        最近一次爬取时间 - 2023-11-04 09:49:29
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2023-11-04 - https://s.cn.bing.net/th?id=OHR.SeaNettles_EN-US6654060294_1920x1080.jpg 
 - 2023-11-03 - https://s.cn.bing.net/th?id=OHR.DeathValleySalt_EN-US1068737086_1920x1080.jpg 
 - 2023-11-02 - https://s.cn.bing.net/th?id=OHR.MummyCaveRuins_EN-US0871963100_1920x1080.jpg 
 - 2023-11-01 - https://s.cn.bing.net/th?id=OHR.HalloweenPorchAI_EN-US0776611565_1920x1080.jpg 
