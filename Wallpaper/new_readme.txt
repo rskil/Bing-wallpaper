@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.TrotternishStorr_EN-US4700593682_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.IcebergAntarctica_EN-US8733526190_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-12-01 10:00:53
+        最近一次爬取时间 - 2023-12-02 09:50:32
     </small>
     <br>
     <hr>
@@ -23,4 +23,5 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2023-12-02 - https://s.cn.bing.net/th?id=OHR.IcebergAntarctica_EN-US8733526190_1920x1080.jpg 
 - 2023-12-01 - https://s.cn.bing.net/th?id=OHR.TrotternishStorr_EN-US4700593682_1920x1080.jpg 
