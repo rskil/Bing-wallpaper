@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.TadamiWinter_EN-US6973402256_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.ThailandNewYears_EN-US7115555089_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2023-12-31 09:56:57
+        最近一次爬取时间 - 2024-01-01 10:00:46
     </small>
     <br>
     <hr>
@@ -23,34 +23,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
-- 2023-12-31 - https://s.cn.bing.net/th?id=OHR.TadamiWinter_EN-US6973402256_1920x1080.jpg 
-- 2023-12-30 - https://s.cn.bing.net/th?id=OHR.BlueAmsterdam_EN-US6868017848_1920x1080.jpg 
-- 2023-12-29 - https://s.cn.bing.net/th?id=OHR.GreenlandHumpback_EN-US0330682837_1920x1080.jpg 
-- 2023-12-28 - https://s.cn.bing.net/th?id=OHR.KirkjufellAurora_EN-US0249270913_1920x1080.jpg 
-- 2023-12-27 - https://s.cn.bing.net/th?id=OHR.BoxingDaySunrise_EN-US9951041123_1920x1080.jpg 
-- 2023-12-26 - https://s.cn.bing.net/th?id=OHR.CaribouChristmas_EN-US9744655068_1920x1080.jpg 
-- 2023-12-25 - https://s.cn.bing.net/th?id=OHR.EstoniaXmasEve_EN-US9431079565_1920x1080.jpg 
-- 2023-12-24 - https://s.cn.bing.net/th?id=OHR.FestivusPenguins_EN-US9322662873_1920x1080.jpg 
-- 2023-12-23 - https://s.cn.bing.net/th?id=OHR.LjubljanaLights_EN-US9215683814_1920x1080.jpg 
-- 2023-12-22 - https://s.cn.bing.net/th?id=OHR.BavarianSolstice_EN-US9111666986_1920x1080.jpg 
-- 2023-12-21 - https://s.cn.bing.net/th?id=OHR.ValGardenaItaly_EN-US8887980856_1920x1080.jpg 
-- 2023-12-20 - https://s.cn.bing.net/th?id=OHR.WarsawChristmas_EN-US8819312496_1920x1080.jpg 
-- 2023-12-19 - https://s.cn.bing.net/th?id=OHR.CapitolReefSnow_EN-US8594085615_1920x1080.jpg 
-- 2023-12-18 - https://s.cn.bing.net/th?id=OHR.WinterWaxwings_EN-US8520915413_1920x1080.jpg 
-- 2023-12-17 - https://s.cn.bing.net/th?id=OHR.GrandPlaceXmas_EN-US8451269457_1920x1080.jpg 
-- 2023-12-16 - https://s.cn.bing.net/th?id=OHR.SantaPark_EN-US8274997583_1920x1080.jpg 
-- 2023-12-15 - https://s.cn.bing.net/th?id=OHR.BorealOwl_EN-US1112219806_1920x1080.jpg 
-- 2023-12-14 - https://s.cn.bing.net/th?id=OHR.LofotenRorbu_EN-US1036629496_1920x1080.jpg 
-- 2023-12-13 - https://s.cn.bing.net/th?id=OHR.Poinsettia_EN-US0450019921_1920x1080.jpg 
-- 2023-12-12 - https://s.cn.bing.net/th?id=OHR.MountainDayChina_EN-US0394775210_1920x1080.jpg 
-- 2023-12-11 - https://s.cn.bing.net/th?id=OHR.SaharaDunes_EN-US0324387398_1920x1080.jpg 
-- 2023-12-10 - https://s.cn.bing.net/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_1920x1080.jpg 
-- 2023-12-09 - https://s.cn.bing.net/th?id=OHR.JerseyIsland_EN-US0109101063_1920x1080.jpg 
-- 2023-12-08 - https://s.cn.bing.net/th?id=OHR.PearlHarborArizona_EN-US9996821390_1920x1080.jpg 
-- 2023-12-07 - https://s.cn.bing.net/th?id=OHR.CERNCenter_EN-US9854867489_1920x1080.jpg 
-- 2023-12-06 - https://s.cn.bing.net/th?id=OHR.AlpsCastles_EN-US9735484506_1920x1080.jpg 
-- 2023-12-05 - https://s.cn.bing.net/th?id=OHR.CheetahDay_EN-US6775219587_1920x1080.jpg 
-- 2023-12-04 - https://s.cn.bing.net/th?id=OHR.VermilionCliffs_EN-US9543863428_1920x1080.jpg 
-- 2023-12-03 - https://s.cn.bing.net/th?id=OHR.AngkorPark_EN-US8869976296_1920x1080.jpg 
-- 2023-12-02 - https://s.cn.bing.net/th?id=OHR.IcebergAntarctica_EN-US8733526190_1920x1080.jpg 
-- 2023-12-01 - https://s.cn.bing.net/th?id=OHR.TrotternishStorr_EN-US4700593682_1920x1080.jpg 
+- 2024-01-01 - https://s.cn.bing.net/th?id=OHR.ThailandNewYears_EN-US7115555089_1920x1080.jpg 
