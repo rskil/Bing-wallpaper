@@ -29,6 +29,6 @@ jobs:
           git config --global user.email $EMAIL
           git config --global user.name $NAME
           git add ./*
-          git commit -m "Update on $(date +%F' '%X) 	:new:" -a
+          git commit -m "Update on $(date +%F' '%X)" -a
           git push
           echo 'Happy every day!'
