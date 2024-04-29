@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.LeucisticHummingbird_EN-US5796079642_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.GuadalupeTexas_EN-US5906260854_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-04-28 09:57:09
+        最近一次爬取时间 - 2024-04-29 09:53:43
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2024-04-29 - https://s.cn.bing.net/th?id=OHR.GuadalupeTexas_EN-US5906260854_1920x1080.jpg 
 - 2024-04-28 - https://s.cn.bing.net/th?id=OHR.LeucisticHummingbird_EN-US5796079642_1920x1080.jpg 
 - 2024-04-27 - https://s.cn.bing.net/th?id=OHR.KalalochTree_EN-US5565386489_1920x1080.jpg 
 - 2024-04-26 - https://s.cn.bing.net/th?id=OHR.PenguinDirections_EN-US5469437415_1920x1080.jpg 
