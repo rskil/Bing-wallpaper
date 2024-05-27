@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.MethowWildflowers_EN-US4937353385_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-05-26 09:59:35
+        最近一次爬取时间 - 2024-05-27 09:57:17
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2024-05-27 - https://s.cn.bing.net/th?id=OHR.MethowWildflowers_EN-US4937353385_1920x1080.jpg 
 - 2024-05-26 - https://s.cn.bing.net/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_1920x1080.jpg 
 - 2024-05-25 - https://s.cn.bing.net/th?id=OHR.OrdesaNationalPark_EN-US4779461538_1920x1080.jpg 
 - 2024-05-24 - https://s.cn.bing.net/th?id=OHR.IndianStarTortoise_EN-US4160827746_1920x1080.jpg 
