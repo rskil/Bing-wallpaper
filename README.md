@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.MeteoraMonastery_EN-US5286293282_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.MullOtter_EN-US5451978021_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-05-29 09:58:55
+        最近一次爬取时间 - 2024-05-30 09:57:54
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2024-05-30 - https://s.cn.bing.net/th?id=OHR.MullOtter_EN-US5451978021_1920x1080.jpg 
 - 2024-05-29 - https://s.cn.bing.net/th?id=OHR.MeteoraMonastery_EN-US5286293282_1920x1080.jpg 
 - 2024-05-28 - https://s.cn.bing.net/th?id=OHR.MemorialFlags_EN-US5086740860_1920x1080.jpg 
 - 2024-05-27 - https://s.cn.bing.net/th?id=OHR.MethowWildflowers_EN-US4937353385_1920x1080.jpg 
