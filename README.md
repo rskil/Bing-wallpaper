@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.Everglades90th_EN-US5663293086_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.YorkshireDalesNP_EN-US6104560581_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-05-31 09:57:12
+        最近一次爬取时间 - 2024-06-01 10:00:05
     </small>
     <br>
     <hr>
@@ -23,34 +23,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
-- 2024-05-31 - https://s.cn.bing.net/th?id=OHR.Everglades90th_EN-US5663293086_1920x1080.jpg 
-- 2024-05-30 - https://s.cn.bing.net/th?id=OHR.MullOtter_EN-US5451978021_1920x1080.jpg 
-- 2024-05-29 - https://s.cn.bing.net/th?id=OHR.MeteoraMonastery_EN-US5286293282_1920x1080.jpg 
-- 2024-05-28 - https://s.cn.bing.net/th?id=OHR.MemorialFlags_EN-US5086740860_1920x1080.jpg 
-- 2024-05-27 - https://s.cn.bing.net/th?id=OHR.MethowWildflowers_EN-US4937353385_1920x1080.jpg 
-- 2024-05-26 - https://s.cn.bing.net/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_1920x1080.jpg 
-- 2024-05-25 - https://s.cn.bing.net/th?id=OHR.OrdesaNationalPark_EN-US4779461538_1920x1080.jpg 
-- 2024-05-24 - https://s.cn.bing.net/th?id=OHR.IndianStarTortoise_EN-US4160827746_1920x1080.jpg 
-- 2024-05-23 - https://s.cn.bing.net/th?id=OHR.SnowGumTasmania_EN-US4058572259_1920x1080.jpg 
-- 2024-05-22 - https://s.cn.bing.net/th?id=OHR.MalaysiaTea_EN-US3322214623_1920x1080.jpg 
-- 2024-05-21 - https://s.cn.bing.net/th?id=OHR.HoneycombBee_EN-US2941694554_1920x1080.jpg 
-- 2024-05-20 - https://s.cn.bing.net/th?id=OHR.VernazzaItaly_EN-US2643430613_1920x1080.jpg 
-- 2024-05-19 - https://s.cn.bing.net/th?id=OHR.MuseumWhale_EN-US2412212162_1920x1080.jpg 
-- 2024-05-18 - https://s.cn.bing.net/th?id=OHR.TarangireElephants_EN-US8865263185_1920x1080.jpg 
-- 2024-05-17 - https://s.cn.bing.net/th?id=OHR.DayOfLight_EN-US1723401316_1920x1080.jpg 
-- 2024-05-16 - https://s.cn.bing.net/th?id=OHR.BlueCityIndia_EN-US1593809891_1920x1080.jpg 
-- 2024-05-15 - https://s.cn.bing.net/th?id=OHR.CarlsbadNP_EN-US2282243740_1920x1080.jpg 
-- 2024-05-14 - https://s.cn.bing.net/th?id=OHR.NamibiaCanyon_EN-US1337379319_1920x1080.jpg 
-- 2024-05-13 - https://s.cn.bing.net/th?id=OHR.GuanacoMother_EN-US1023542218_1920x1080.jpg 
-- 2024-05-12 - https://s.cn.bing.net/th?id=OHR.TexasIndigoBunting_EN-US0916417036_1920x1080.jpg 
-- 2024-05-11 - https://s.cn.bing.net/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_1920x1080.jpg 
-- 2024-05-10 - https://s.cn.bing.net/th?id=OHR.EmirganPark_EN-US0659286862_1920x1080.jpg 
-- 2024-05-09 - https://s.cn.bing.net/th?id=OHR.PortMarseille_EN-US0558123049_1920x1080.jpg 
-- 2024-05-08 - https://s.cn.bing.net/th?id=OHR.LittleDuckling_EN-US0447954247_1920x1080.jpg 
-- 2024-05-07 - https://s.cn.bing.net/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_1920x1080.jpg 
-- 2024-05-06 - https://s.cn.bing.net/th?id=OHR.SanMiguelAllende_EN-US9621237021_1920x1080.jpg 
-- 2024-05-05 - https://s.cn.bing.net/th?id=OHR.JediMonastery_EN-US9398447907_1920x1080.jpg 
-- 2024-05-04 - https://s.cn.bing.net/th?id=OHR.SonoranSpring_EN-US9207877073_1920x1080.jpg 
-- 2024-05-03 - https://s.cn.bing.net/th?id=OHR.CratersOfTheMoon_EN-US6516727783_1920x1080.jpg 
-- 2024-05-02 - https://s.cn.bing.net/th?id=OHR.HawaiianLei_EN-US6290126556_1920x1080.jpg 
-- 2024-05-01 - https://s.cn.bing.net/th?id=OHR.CheetahRain_EN-US6179670004_1920x1080.jpg 
+- 2024-06-01 - https://s.cn.bing.net/th?id=OHR.YorkshireDalesNP_EN-US6104560581_1920x1080.jpg 
