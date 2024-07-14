@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.RainierWildflowers_EN-US8010104719_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.CappadociaRocks_EN-US8162611189_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-07-13 10:00:33
+        最近一次爬取时间 - 2024-07-14 10:08:34
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2024-07-14 - https://s.cn.bing.net/th?id=OHR.CappadociaRocks_EN-US8162611189_1920x1080.jpg 
 - 2024-07-13 - https://s.cn.bing.net/th?id=OHR.RainierWildflowers_EN-US8010104719_1920x1080.jpg 
 - 2024-07-12 - https://s.cn.bing.net/th?id=OHR.GangiSicily_EN-US5325083744_1920x1080.jpg 
 - 2024-07-11 - https://s.cn.bing.net/th?id=OHR.CollaredAracari_EN-US4924599176_1920x1080.jpg 
