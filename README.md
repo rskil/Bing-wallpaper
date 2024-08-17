@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.HangCave_EN-US9374263509_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.JapanRollerCoaster_EN-US9463845683_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-08-16 10:03:55
+        最近一次爬取时间 - 2024-08-17 10:01:08
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2024-08-17 - https://s.cn.bing.net/th?id=OHR.JapanRollerCoaster_EN-US9463845683_1920x1080.jpg 
 - 2024-08-16 - https://s.cn.bing.net/th?id=OHR.HangCave_EN-US9374263509_1920x1080.jpg 
 - 2024-08-15 - https://s.cn.bing.net/th?id=OHR.WatarrkaLizard_EN-US2106702347_1920x1080.jpg 
 - 2024-08-14 - https://s.cn.bing.net/th?id=OHR.DugiOtokCroatia_EN-US1981524043_1920x1080.jpg 
