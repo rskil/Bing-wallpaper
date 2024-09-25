@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.IcebergOtter_EN-US3869054406_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-09-24 10:16:27
+        最近一次爬取时间 - 2024-09-25 10:17:30
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2024-09-25 - https://s.cn.bing.net/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_1920x1080.jpg 
 - 2024-09-24 - https://s.cn.bing.net/th?id=OHR.IcebergOtter_EN-US3869054406_1920x1080.jpg 
 - 2024-09-23 - https://s.cn.bing.net/th?id=OHR.AutumnCumbria_EN-US3797009731_1920x1080.jpg 
 - 2024-09-22 - https://s.cn.bing.net/th?id=OHR.MunichBeerfest_EN-US3708656793_1920x1080.jpg 
