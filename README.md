@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.MaraMigration_EN-US9704012409_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.FossilsDorset_EN-US9782204825_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-10-16 10:18:29
+        最近一次爬取时间 - 2024-10-17 10:16:27
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2024-10-17 - https://s.cn.bing.net/th?id=OHR.FossilsDorset_EN-US9782204825_1920x1080.jpg 
 - 2024-10-16 - https://s.cn.bing.net/th?id=OHR.MaraMigration_EN-US9704012409_1920x1080.jpg 
 - 2024-10-15 - https://s.cn.bing.net/th?id=OHR.PuebloNankoweap_EN-US9631367700_1920x1080.jpg 
 - 2024-10-14 - https://s.cn.bing.net/th?id=OHR.AlcazarSeville_EN-US9523655289_1920x1080.jpg 
