@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.TasmansArch_EN-US4274981499_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-11-19 10:21:57
+        最近一次爬取时间 - 2024-11-20 10:21:09
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2024-11-20 - https://s.cn.bing.net/th?id=OHR.TasmansArch_EN-US4274981499_1920x1080.jpg 
 - 2024-11-19 - https://s.cn.bing.net/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_1920x1080.jpg 
 - 2024-11-18 - https://s.cn.bing.net/th?id=OHR.RedStag_EN-US3910525623_1920x1080.jpg 
 - 2024-11-17 - https://s.cn.bing.net/th?id=OHR.FrieslandNetherlands_EN-US3770890281_1920x1080.jpg 
