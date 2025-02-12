@@ -10,7 +10,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2025-02-11 16:13:45
+        最近一次爬取时间 - 2025-02-12 10:14:14
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2025-02-12 - https://s.cn.bing.net/th?id=OHR.YungangGrottoes_EN-US6896904893_1920x1080.jpg 
 - 2025-02-11 - https://s.cn.bing.net/th?id=OHR.YungangGrottoes_EN-US6896904893_1920x1080.jpg 
 - 2025-02-10 - https://s.cn.bing.net/th?id=OHR.AlstromPoint_EN-US6746094430_1920x1080.jpg 
 - 2025-02-09 - https://s.cn.bing.net/th?id=OHR.SnowySvaneti_EN-US6546788330_1920x1080.jpg 
