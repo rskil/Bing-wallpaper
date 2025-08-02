@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.BabyLemur_EN-US9264861498_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.EdinburghFringe_EN-US5923216873_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2025-08-01 11:11:54
+        最近一次爬取时间 - 2025-08-02 10:52:23
     </small>
     <br>
     <hr>
@@ -23,4 +23,5 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2025-08-02 - https://s.cn.bing.net/th?id=OHR.EdinburghFringe_EN-US5923216873_1920x1080.jpg 
 - 2025-08-01 - https://s.cn.bing.net/th?id=OHR.BabyLemur_EN-US9264861498_1920x1080.jpg 
