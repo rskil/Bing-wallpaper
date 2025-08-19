@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.LyngvigLighthouse_EN-US1600601632_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.AvalancheLake_EN-US1814683119_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2025-08-18 10:57:14
+        最近一次爬取时间 - 2025-08-19 10:39:57
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2025-08-19 - https://s.cn.bing.net/th?id=OHR.AvalancheLake_EN-US1814683119_1920x1080.jpg 
 - 2025-08-18 - https://s.cn.bing.net/th?id=OHR.LyngvigLighthouse_EN-US1600601632_1920x1080.jpg 
 - 2025-08-17 - https://s.cn.bing.net/th?id=OHR.ColorfulBeehives_EN-US1476944743_1920x1080.jpg 
 - 2025-08-16 - https://s.cn.bing.net/th?id=OHR.SpottedEagleRay_EN-US9227600044_1920x1080.jpg 
