@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.ScottsBluff_EN-US3893566724_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2025-08-31 10:37:18
+        最近一次爬取时间 - 2025-09-01 10:50:52
     </small>
     <br>
     <hr>
@@ -23,34 +23,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
-- 2025-08-31 - https://s.cn.bing.net/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_1920x1080.jpg 
-- 2025-08-30 - https://s.cn.bing.net/th?id=OHR.PlazaMayor_EN-US3692727880_1920x1080.jpg 
-- 2025-08-29 - https://s.cn.bing.net/th?id=OHR.WhiteEgret_EN-US3605994040_1920x1080.jpg 
-- 2025-08-28 - https://s.cn.bing.net/th?id=OHR.FaroeLake_EN-US3557234950_1920x1080.jpg 
-- 2025-08-27 - https://s.cn.bing.net/th?id=OHR.TrulliHouses_EN-US3489439665_1920x1080.jpg 
-- 2025-08-26 - https://s.cn.bing.net/th?id=OHR.YellowstoneRiver_EN-US3380364726_1920x1080.jpg 
-- 2025-08-25 - https://s.cn.bing.net/th?id=OHR.CervusDama_EN-US3217647015_1920x1080.jpg 
-- 2025-08-24 - https://s.cn.bing.net/th?id=OHR.SaintBarbaras_EN-US3076115197_1920x1080.jpg 
-- 2025-08-23 - https://s.cn.bing.net/th?id=OHR.PalouseWA_EN-US2419102005_1920x1080.jpg 
-- 2025-08-22 - https://s.cn.bing.net/th?id=OHR.WheatearBird_EN-US2132045619_1920x1080.jpg 
-- 2025-08-21 - https://s.cn.bing.net/th?id=OHR.CitadelBonifacio_EN-US2046177235_1920x1080.jpg 
-- 2025-08-20 - https://s.cn.bing.net/th?id=OHR.SolarAviation_EN-US1940905760_1920x1080.jpg 
-- 2025-08-19 - https://s.cn.bing.net/th?id=OHR.AvalancheLake_EN-US1814683119_1920x1080.jpg 
-- 2025-08-18 - https://s.cn.bing.net/th?id=OHR.LyngvigLighthouse_EN-US1600601632_1920x1080.jpg 
-- 2025-08-17 - https://s.cn.bing.net/th?id=OHR.ColorfulBeehives_EN-US1476944743_1920x1080.jpg 
-- 2025-08-16 - https://s.cn.bing.net/th?id=OHR.SpottedEagleRay_EN-US9227600044_1920x1080.jpg 
-- 2025-08-15 - https://s.cn.bing.net/th?id=OHR.PizNairPeak_EN-US9097547756_1920x1080.jpg 
-- 2025-08-14 - https://s.cn.bing.net/th?id=OHR.CoronaArch_EN-US8928406175_1920x1080.jpg 
-- 2025-08-13 - https://s.cn.bing.net/th?id=OHR.KenyaElephants_EN-US8723347309_1920x1080.jpg 
-- 2025-08-12 - https://s.cn.bing.net/th?id=OHR.SantaMaddalena_EN-US8546897995_1920x1080.jpg 
-- 2025-08-11 - https://s.cn.bing.net/th?id=OHR.LionessKenya_EN-US8440386444_1920x1080.jpg 
-- 2025-08-10 - https://s.cn.bing.net/th?id=OHR.MaoriRock_EN-US6499689741_1920x1080.jpg 
-- 2025-08-09 - https://s.cn.bing.net/th?id=OHR.IguazuArgentina_EN-US5953375078_1920x1080.jpg 
-- 2025-08-08 - https://s.cn.bing.net/th?id=OHR.GasparillaLight_EN-US0554204214_1920x1080.jpg 
-- 2025-08-07 - https://s.cn.bing.net/th?id=OHR.NaPaliKauai_EN-US7451684312_1920x1080.jpg 
-- 2025-08-06 - https://s.cn.bing.net/th?id=OHR.CaliforniaTidepool_EN-US9089576317_1920x1080.jpg 
-- 2025-08-05 - https://s.cn.bing.net/th?id=OHR.LaplandOwl_EN-US8965493818_1920x1080.jpg 
-- 2025-08-04 - https://s.cn.bing.net/th?id=OHR.HappySunflower_EN-US8791544241_1920x1080.jpg 
-- 2025-08-03 - https://s.cn.bing.net/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_1920x1080.jpg 
-- 2025-08-02 - https://s.cn.bing.net/th?id=OHR.EdinburghFringe_EN-US5923216873_1920x1080.jpg 
-- 2025-08-01 - https://s.cn.bing.net/th?id=OHR.BabyLemur_EN-US9264861498_1920x1080.jpg 
+- 2025-09-01 - https://s.cn.bing.net/th?id=OHR.ScottsBluff_EN-US3893566724_1920x1080.jpg 
