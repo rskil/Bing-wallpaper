@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.FanalForest_EN-US4405104404_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.PushkarFair_EN-US4430814252_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2025-10-30 10:41:10
+        最近一次爬取时间 - 2025-10-31 10:40:01
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2025-10-31 - https://s.cn.bing.net/th?id=OHR.PushkarFair_EN-US4430814252_1920x1080.jpg 
 - 2025-10-30 - https://s.cn.bing.net/th?id=OHR.FanalForest_EN-US4405104404_1920x1080.jpg 
 - 2025-10-29 - https://s.cn.bing.net/th?id=OHR.TepliceRocks_EN-US4098225022_1920x1080.jpg 
 - 2025-10-28 - https://s.cn.bing.net/th?id=OHR.AfricanRaven_EN-US4057369898_1920x1080.jpg 
