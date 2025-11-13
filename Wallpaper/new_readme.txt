@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.MarineMemorial_EN-US6899836690_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.ColosseumRome_EN-US6932882124_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2025-11-12 10:41:09
+        最近一次爬取时间 - 2025-11-13 10:43:55
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2025-11-13 - https://s.cn.bing.net/th?id=OHR.ColosseumRome_EN-US6932882124_1920x1080.jpg 
 - 2025-11-12 - https://s.cn.bing.net/th?id=OHR.MarineMemorial_EN-US6899836690_1920x1080.jpg 
 - 2025-11-11 - https://s.cn.bing.net/th?id=OHR.PrairieDogTown_EN-US6854295076_1920x1080.jpg 
 - 2025-11-10 - https://s.cn.bing.net/th?id=OHR.LagoonNebula_EN-US7186308623_1920x1080.jpg 
