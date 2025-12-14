@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.YosemiteWinter_EN-US4786605896_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2025-12-13 10:42:56
+        最近一次爬取时间 - 2025-12-14 10:57:08
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2025-12-14 - https://s.cn.bing.net/th?id=OHR.YosemiteWinter_EN-US4786605896_1920x1080.jpg 
 - 2025-12-13 - https://s.cn.bing.net/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_1920x1080.jpg 
 - 2025-12-12 - https://s.cn.bing.net/th?id=OHR.EverestGlow_EN-US6131667612_1920x1080.jpg 
 - 2025-12-11 - https://s.cn.bing.net/th?id=OHR.CordobaCathedral_EN-US6045311068_1920x1080.jpg 
