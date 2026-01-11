@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.MuirWoodsMonument_EN-US9831416144_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.MatterhornSunrise_EN-US9978097106_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2026-01-10 10:50:59
+        最近一次爬取时间 - 2026-01-11 11:06:56
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2026-01-11 - https://s.cn.bing.net/th?id=OHR.MatterhornSunrise_EN-US9978097106_1920x1080.jpg 
 - 2026-01-10 - https://s.cn.bing.net/th?id=OHR.MuirWoodsMonument_EN-US9831416144_1920x1080.jpg 
 - 2026-01-09 - https://s.cn.bing.net/th?id=OHR.StarlingBrighton2025_EN-US6998438769_1920x1080.jpg 
 - 2026-01-08 - https://s.cn.bing.net/th?id=OHR.OldRockArch_EN-US2422589534_1920x1080.jpg 
