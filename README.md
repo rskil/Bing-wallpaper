@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.IbizaIslets_EN-US4713963434_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.BadwaterFlats_EN-US4770719796_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2026-02-11 11:46:40
+        最近一次爬取时间 - 2026-02-12 11:41:24
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2026-02-12 - https://s.cn.bing.net/th?id=OHR.BadwaterFlats_EN-US4770719796_1920x1080.jpg 
 - 2026-02-11 - https://s.cn.bing.net/th?id=OHR.IbizaIslets_EN-US4713963434_1920x1080.jpg 
 - 2026-02-10 - https://s.cn.bing.net/th?id=OHR.LeopardCat_EN-US4669057608_1920x1080.jpg 
 - 2026-02-09 - https://s.cn.bing.net/th?id=OHR.CorfuGreece_EN-US4606019833_1920x1080.jpg 
