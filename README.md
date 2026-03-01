@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.ArcitcCub_EN-US2529097123_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.OloupenaFalls_EN-US2862358887_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2026-02-28 11:08:48
+        最近一次爬取时间 - 2026-03-01 11:39:57
     </small>
     <br>
     <hr>
@@ -23,31 +23,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
-- 2026-02-28 - https://s.cn.bing.net/th?id=OHR.ArcitcCub_EN-US2529097123_1920x1080.jpg 
-- 2026-02-27 - https://s.cn.bing.net/th?id=OHR.GrandSunset_EN-US2473517741_1920x1080.jpg 
-- 2026-02-26 - https://s.cn.bing.net/th?id=OHR.MendenhallCave_EN-US2807496139_1920x1080.jpg 
-- 2026-02-25 - https://s.cn.bing.net/th?id=OHR.TulumLilies_EN-US2766347819_1920x1080.jpg 
-- 2026-02-24 - https://s.cn.bing.net/th?id=OHR.BavariaEgret_EN-US2697995103_1920x1080.jpg 
-- 2026-02-23 - https://s.cn.bing.net/th?id=OHR.MamTorSunrise_EN-US2655534073_1920x1080.jpg 
-- 2026-02-22 - https://s.cn.bing.net/th?id=OHR.TetonFox_EN-US2616700325_1920x1080.jpg 
-- 2026-02-21 - https://s.cn.bing.net/th?id=OHR.AdamsFirefall_EN-US2580399078_1920x1080.jpg 
-- 2026-02-20 - https://s.cn.bing.net/th?id=OHR.DragonsEyeRock_EN-US6826796617_1920x1080.jpg 
-- 2026-02-19 - https://s.cn.bing.net/th?id=OHR.PrzewalskisHorse_EN-US6767229079_1920x1080.jpg 
-- 2026-02-18 - https://s.cn.bing.net/th?id=OHR.NewYearLantern_EN-US6665128229_1920x1080.jpg 
-- 2026-02-17 - https://s.cn.bing.net/th?id=OHR.PresidentsDay_EN-US6598155144_1920x1080.jpg 
-- 2026-02-16 - https://s.cn.bing.net/th?id=OHR.MontereyHumpbacks_EN-US6328970690_1920x1080.jpg 
-- 2026-02-15 - https://s.cn.bing.net/th?id=OHR.ValentineHearts_EN-US6208359150_1920x1080.jpg 
-- 2026-02-14 - https://s.cn.bing.net/th?id=OHR.FriendshipBridge_EN-US6136231298_1920x1080.jpg 
-- 2026-02-13 - https://s.cn.bing.net/th?id=OHR.DarwinBooby_EN-US4839738451_1920x1080.jpg 
-- 2026-02-12 - https://s.cn.bing.net/th?id=OHR.BadwaterFlats_EN-US4770719796_1920x1080.jpg 
-- 2026-02-11 - https://s.cn.bing.net/th?id=OHR.IbizaIslets_EN-US4713963434_1920x1080.jpg 
-- 2026-02-10 - https://s.cn.bing.net/th?id=OHR.LeopardCat_EN-US4669057608_1920x1080.jpg 
-- 2026-02-09 - https://s.cn.bing.net/th?id=OHR.CorfuGreece_EN-US4606019833_1920x1080.jpg 
-- 2026-02-08 - https://s.cn.bing.net/th?id=OHR.SalarUyuni_EN-US1639129259_1920x1080.jpg 
-- 2026-02-07 - https://s.cn.bing.net/th?id=OHR.GiauPass_EN-US1580552183_1920x1080.jpg 
-- 2026-02-06 - https://s.cn.bing.net/th?id=OHR.MaltaSalt_EN-US0310458987_1920x1080.jpg 
-- 2026-02-05 - https://s.cn.bing.net/th?id=OHR.ParksGlass_EN-US0280057691_1920x1080.jpg 
-- 2026-02-04 - https://s.cn.bing.net/th?id=OHR.FanetteIsland_EN-US0236094374_1920x1080.jpg 
-- 2026-02-03 - https://s.cn.bing.net/th?id=OHR.AlpineMarmots_EN-US0200342638_1920x1080.jpg 
-- 2026-02-02 - https://s.cn.bing.net/th?id=OHR.ArmyNurses_EN-US0165759491_1920x1080.jpg 
-- 2026-02-01 - https://s.cn.bing.net/th?id=OHR.EtoshaZebra_EN-US0091145236_1920x1080.jpg 
+- 2026-03-01 - https://s.cn.bing.net/th?id=OHR.OloupenaFalls_EN-US2862358887_1920x1080.jpg 
