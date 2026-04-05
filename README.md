@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.ArmbrugBridge_EN-US3302230248_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.GrouseGuff_EN-US4212457538_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2026-04-04 11:32:23
+        最近一次爬取时间 - 2026-04-05 11:53:12
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2026-04-05 - https://s.cn.bing.net/th?id=OHR.GrouseGuff_EN-US4212457538_1920x1080.jpg 
 - 2026-04-04 - https://s.cn.bing.net/th?id=OHR.ArmbrugBridge_EN-US3302230248_1920x1080.jpg 
 - 2026-04-03 - https://s.cn.bing.net/th?id=OHR.WildflowerValley_EN-US6579657743_1920x1080.jpg 
 - 2026-04-02 - https://s.cn.bing.net/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_1920x1080.jpg 
