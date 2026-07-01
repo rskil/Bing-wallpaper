@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.BoraBoraLagoon_EN-US1491116478_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.MasaiGiraffe_EN-US2240704874_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2026-06-30 13:02:08
+        最近一次爬取时间 - 2026-07-01 13:20:15
     </small>
     <br>
     <hr>
@@ -23,33 +23,4 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
-- 2026-06-30 - https://s.cn.bing.net/th?id=OHR.BoraBoraLagoon_EN-US1491116478_1920x1080.jpg 
-- 2026-06-29 - https://s.cn.bing.net/th?id=OHR.SaguaroSun_EN-US8982109543_1920x1080.jpg 
-- 2026-06-28 - https://s.cn.bing.net/th?id=OHR.BoneyardBeach_EN-US8247496696_1920x1080.jpg 
-- 2026-06-27 - https://s.cn.bing.net/th?id=OHR.ThamesSummer_EN-US6783349970_1920x1080.jpg 
-- 2026-06-26 - https://s.cn.bing.net/th?id=OHR.GrandPlace_EN-US6561229456_1920x1080.jpg 
-- 2026-06-25 - https://s.cn.bing.net/th?id=OHR.BFPollin_EN-US6519187095_1920x1080.jpg 
-- 2026-06-24 - https://s.cn.bing.net/th?id=OHR.Fujisan_EN-US6479372200_1920x1080.jpg 
-- 2026-06-23 - https://s.cn.bing.net/th?id=OHR.QuinaultFerns_EN-US6436576493_1920x1080.jpg 
-- 2026-06-22 - https://s.cn.bing.net/th?id=OHR.EggDad_EN-US6390221455_1920x1080.jpg 
-- 2026-06-21 - https://s.cn.bing.net/th?id=OHR.ArchedIceberg_EN-US6345786269_1920x1080.jpg 
-- 2026-06-20 - https://s.cn.bing.net/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_1920x1080.jpg 
-- 2026-06-19 - https://s.cn.bing.net/th?id=OHR.Saqsaywaman_EN-US6250260694_1920x1080.jpg 
-- 2026-06-18 - https://s.cn.bing.net/th?id=OHR.TremolaRoad_EN-US6212254886_1920x1080.jpg 
-- 2026-06-17 - https://s.cn.bing.net/th?id=OHR.SevenMileTurtle_EN-US6164934763_1920x1080.jpg 
-- 2026-06-16 - https://s.cn.bing.net/th?id=OHR.ParkEstd_EN-US6114949122_1920x1080.jpg 
-- 2026-06-15 - https://s.cn.bing.net/th?id=OHR.FlagsMonument_EN-US6034154869_1920x1080.jpg 
-- 2026-06-14 - https://s.cn.bing.net/th?id=OHR.BadSunset_EN-US5981956630_1920x1080.jpg 
-- 2026-06-13 - https://s.cn.bing.net/th?id=OHR.SpainBeeEater_EN-US5920719155_1920x1080.jpg 
-- 2026-06-12 - https://s.cn.bing.net/th?id=OHR.Limpets_EN-US1055673545_1920x1080.jpg 
-- 2026-06-11 - https://s.cn.bing.net/th?id=OHR.Hnausapollur_EN-US2080493040_1920x1080.jpg 
-- 2026-06-10 - https://s.cn.bing.net/th?id=OHR.CTNPVernazza_EN-US1571456265_1920x1080.jpg 
-- 2026-06-09 - https://s.cn.bing.net/th?id=OHR.Cyanea_EN-US1146473249_1920x1080.jpg 
-- 2026-06-08 - https://s.cn.bing.net/th?id=OHR.GardenAtlanta_EN-US2319128074_1920x1080.jpg 
-- 2026-06-07 - https://s.cn.bing.net/th?id=OHR.HikingNatchez_EN-US0663065299_1920x1080.jpg 
-- 2026-06-06 - https://s.cn.bing.net/th?id=OHR.WedLapland_EN-US9813120088_1920x1080.jpg 
-- 2026-06-05 - https://s.cn.bing.net/th?id=OHR.PreeningEgret_EN-US9350488148_1920x1080.jpg 
-- 2026-06-04 - https://s.cn.bing.net/th?id=OHR.BardenasReales_EN-US9044910730_1920x1080.jpg 
-- 2026-06-03 - https://s.cn.bing.net/th?id=OHR.Qinghai_EN-US8807254633_1920x1080.jpg 
-- 2026-06-02 - https://s.cn.bing.net/th?id=OHR.RockefellerPride_EN-US1087499810_1920x1080.jpg 
-- 2026-06-01 - https://s.cn.bing.net/th?id=OHR.EvergladesWetlands_EN-US8572465847_1920x1080.jpg 
+- 2026-07-01 - https://s.cn.bing.net/th?id=OHR.MasaiGiraffe_EN-US2240704874_1920x1080.jpg 
