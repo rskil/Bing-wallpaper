@@ -10,7 +10,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2026-10-09 15:08:35
+        最近一次爬取时间 - 2026-10-10 14:42:16
     </small>
     <br>
     <hr>
@@ -23,6 +23,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 </p>
 
 
+- 2026-10-10 - https://s.cn.bing.net/th?id=OHR.IlesSanguinaires_EN-US5801644173_1920x1080.jpg 
 - 2026-10-09 - https://s.cn.bing.net/th?id=OHR.IlesSanguinaires_EN-US5801644173_1920x1080.jpg 
 - 2026-10-08 - https://s.cn.bing.net/th?id=OHR.MayotteOctopus_EN-US5694987016_1920x1080.jpg 
 - 2026-10-07 - https://s.cn.bing.net/th?id=OHR.DanxiaLandform_EN-US5459628079_1920x1080.jpg 
