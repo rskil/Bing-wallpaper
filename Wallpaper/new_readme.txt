@@ -6,17 +6,18 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.NorthWindow_EN-US1170338293_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2026-11-12 15:57:52
+        最近一次爬取时间 - 2026-11-13 15:37:08
     </small>
     <br>
     <hr>
 </p>
 
 
+- 2026-11-13 - https://s.cn.bing.net/th?id=OHR.NorthWindow_EN-US1170338293_1920x1080.jpg 
 - 2026-11-12 - https://s.cn.bing.net/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1080.jpg 
 - 2026-11-11 - https://s.cn.bing.net/th?id=OHR.RoseIsland_EN-US0952497192_1920x1080.jpg 
 - 2026-11-10 - https://s.cn.bing.net/th?id=OHR.RoseIsland_EN-US0952497192_1920x1080.jpg 
