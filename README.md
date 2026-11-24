@@ -6,17 +6,18 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ```
 
- ![](https://s.cn.bing.net/th?id=OHR.FibonacciFern_EN-US6307771770_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.CairngormsSquirrel_EN-US7053432564_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2026-11-23 16:35:49
+        最近一次爬取时间 - 2026-11-24 18:41:15
     </small>
     <br>
     <hr>
 </p>
 
 
+- 2026-11-24 - https://s.cn.bing.net/th?id=OHR.CairngormsSquirrel_EN-US7053432564_1920x1080.jpg 
 - 2026-11-23 - https://s.cn.bing.net/th?id=OHR.FibonacciFern_EN-US6307771770_1920x1080.jpg 
 - 2026-11-22 - https://s.cn.bing.net/th?id=OHR.RedNice_EN-US9978351403_1920x1080.jpg 
 - 2026-11-21 - https://s.cn.bing.net/th?id=OHR.Megaptera_EN-US1728719939_1920x1080.jpg 
